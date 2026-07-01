@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/specs/">
+    <File Path="specs/import-employee-csv/plan.md" />
+    <File Path="specs/import-employee-csv/spec.md" />
+    <File Path="specs/import-employee-csv/tasks.md" />
+  </Folder>
+  <Project Path="EmployeeAnalyzer.Tests/EmployeeAnalyzer.Tests.csproj" />
   <Project Path="EmployeeAnalyzer/EmployeeAnalyzer.csproj" />
 </Solution>

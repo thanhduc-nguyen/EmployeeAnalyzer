@@ -11,7 +11,7 @@ So that I can quickly identify the highest-paid employees.
 ## Requirements
 
 ### Functional
-1. Accept CSV path as command-line argument
+1. Accept CSV as hard-coded input file path
 2. Parse employee records
 3. Ignore invalid rows
 4. Sort employees by salary descending
